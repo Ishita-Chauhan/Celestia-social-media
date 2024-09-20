@@ -1,6 +1,6 @@
 # Celestia 🌼
 
-Welcome to **Celestia**! A vibrant social media platform inspired by Instagram, where you can connect, share, and blossom in a community as bright as the stars! ✨
+Welcome to **Celestia**! A vibrant social media platform, where you can connect, share, and blossom in a community as bright as the stars! ✨
 
 ## 🌿 About Celestia
 
